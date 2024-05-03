@@ -62,15 +62,3 @@ You can customize and extend this project according to your specific requirement
 
 ### Contribution/Suggestions
 If someone is interested in contribution or have some suggestions please contact me on email hedzaprog@gmail.com.
-
-
-### Author
-Heril Muratović  
-Software Engineer
-
-Mobile/Viber/WhatsUp: +382 69 657 962  
-Email: hedzaprog@gmail.com  
-Skype: hedza06  
-Twitter: herilmuratovic  
-LinkedIn: https://www.linkedin.com/in/heril-muratovi%C4%87-021097132/  
-StackOverflow: https://stackoverflow.com/users/4078505/heril-muratovic
