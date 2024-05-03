@@ -58,7 +58,3 @@ You can customize and extend this project according to your specific requirement
 - Modify the entity and repository classes to match your domain model
 - Implement additional API endpoints or add more features as needed
 - Adapt the database configuration for your preferred database system
-
-
-### Contribution/Suggestions
-If someone is interested in contribution or have some suggestions please contact me on email hedzaprog@gmail.com.
